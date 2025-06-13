@@ -1,12 +1,42 @@
-Copyright (c) AbdulRafay Chaudhry, 2025  
-All rights reserved.
+# Strict Proprietary License
 
-This source code, including all associated files and documentation, is the exclusive intellectual property of Rafay Chaudhry. It is proprietary, confidential, and protected under applicable copyright, trade secret, and intellectual property laws.
+**Copyright (c) 2025 AbdulRafay Ather. All rights reserved.**
 
-Permission to view or access this code is granted solely for personal inspection and educational reference. **No right is granted to use, copy, modify, merge, publish, distribute, sublicense, sell, or create derivative works** based on this software, in whole or in part, for any purpose, commercial or non-commercial.
+## Terms and Conditions
 
-This software is **not open source** and is **not licensed** for any form of public or private usage, redistribution, or integration without the **explicit, written, and signed consent** of the copyright owner.
+### 1. Grant of Rights
+This software and associated documentation files (the "Software") are the exclusive property of AbdulRafay Ather. No rights are granted to any party except as explicitly stated herein.
 
-Any unauthorized access, reproduction, modification, or distribution of this code constitutes a violation of the law and may result in civil or criminal liability.
+### 2. Permitted Use
+- **Viewing Only**: You may view the source code for educational and reference purposes only.
+- **No Modification**: You may not modify, adapt, alter, or create derivative works based on this Software.
+- **No Distribution**: You may not distribute, publish, or share this Software or any portion thereof.
+- **No Commercial Use**: Commercial use of any kind is strictly prohibited.
 
-For licensing inquiries or legal permissions, please contact the Owner directly.
+### 3. Restrictions
+You are expressly prohibited from:
+- Copying, reproducing, or duplicating the Software
+- Reverse engineering, decompiling, or disassembling the Software
+- Removing or altering any proprietary notices or labels
+- Using the Software for competitive analysis or benchmarking
+- Incorporating any part of the Software into other projects
+- Sublicensing or transferring any rights to third parties
+
+### 4. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+### 5. Limitation of Liability
+IN NO EVENT SHALL ABDULRAFAY ATHER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 6. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term herein.
+
+### 7. Governing Law
+This license shall be governed by the laws of Pakistan, without regard to conflict of law principles.
+
+### 8. Contact
+For permissions beyond the scope of this license, contact: AbdulRafay Ather
+
+---
+
+**NOTICE**: This is a restrictive license. If you require permissions for use, modification, or distribution, you must obtain explicit written permission from the copyright holder.
